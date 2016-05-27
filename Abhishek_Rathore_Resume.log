@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.25)  28 MAY 2016 01:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.25)  28 MAY 2016 01:10
 entering extended mode
 **./Abhishek_Rathore_Resume.tex
 (Abhishek_Rathore_Resume.tex
@@ -117,24 +117,31 @@ Overfull \hbox (49.67368pt too wide) in paragraph at lines 22--33
 [] 
  []
 
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
 [1
 
 {C:/Users/raaz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Abhishek_R
-athore_Photo.jpg>] (Abhishek_Rathore_Resume.aux) ) 
+athore_Photo.jpg>] [2] (Abhishek_Rathore_Resume.aux) ) 
 Here is how much of TeX's memory you used:
  1252 strings out of 493634
  16891 string characters out of 3141317
- 72568 words of memory out of 3000000
+ 74568 words of memory out of 3000000
  4671 multiletter control sequences out of 15000+200000
  7894 words of font info for 28 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,13n,19p,237b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on Abhishek_Rathore_Resume.pdf (1 page, 46493 bytes).
+ 27i,13n,19p,482b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Abhishek_Rathore_Resume.pdf (2 pages, 60161 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
